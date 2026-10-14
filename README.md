@@ -1,4 +1,4 @@
-﻿## Aegis - Robust and Flexible .NET Licensing Solution
+﻿## Aegis - Robust and Flexible .NET Licensing Solution1
 
 Aegis is a comprehensive and versatile licensing library for .NET applications, empowering developers to implement
 various licensing models with ease. It offers strong security features, offline validation, and seamless integration
